@@ -113,7 +113,7 @@ Built with scalable architecture and modern UI design — similar to real SaaS h
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/yourusername/SmartHire-Portal.git
+git clone https://github.com/Arjun-g03/SmartHire-Portal.git
 ```
 
 ---
