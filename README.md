@@ -154,7 +154,7 @@ backend/src/main/resources/application.properties
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/smarthire
 spring.datasource.username=root
-spring.datasource.password=@arjun001@
+spring.datasource.password=arjun01@
 spring.jpa.hibernate.ddl-auto=update
 ```
 
